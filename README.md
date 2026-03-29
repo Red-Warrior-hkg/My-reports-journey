@@ -24,7 +24,7 @@ Everything here is for **educational purposes only**.
 Here are some reports I created:
 
 - [Router XSS Analysis](https://github.com/Red-Warrior-hkg/My-reports-journey/tree/main/Router%20XSS%20Analysis)
-  Explored a home router web interface 🏠, discovered **reflected XSS** 💥, and learned how **input handling** works 🔍.
+- Explored a home router web interface 🏠, discovered **reflected XSS** 💥, and learned how **input handling** works 🔍.
 
 ---
 
