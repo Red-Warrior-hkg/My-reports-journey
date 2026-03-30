@@ -3,7 +3,7 @@
 ## 📝 Description
 This project focuses on analyzing a **home router web interface** 🏠 in a safe lab environment 🧪.  
 The goal was to understand how web vulnerabilities appear in real devices and how input handling can introduce security risks.
-
+- For more details, see the report here: 📄 **[View the full Router XSS Analysis Report](https://github.com/Red-Warrior-hkg/My-reports-journey/blob/main/Router%20XSS%20Analysis/Router%20XSS%20Analysis-Report.pdf)**
 ---
 
 ## 🎯 Target / Environment
