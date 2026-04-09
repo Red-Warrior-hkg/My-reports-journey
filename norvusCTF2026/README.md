@@ -17,7 +17,9 @@
 | 📅 Date | ⏱️ Duration | 🎯 Format | 👥 Teams | 🏅 Rank | 💯 Score |
 |--------|------------|----------|---------|--------|---------|
 | March 28–29, 2026 | 24 Hours | Jeopardy | 348 | **#84** | **2700** |
- 
+
+> Note: The official certificate lists rank #95 due to a discrepancy. 
+> The verified final position based on the scoreboard is #84 [See proof below](https://github.com/user-attachments/assets/26dd8e2c-ecae-431c-bf5e-6404b29f1373)).
 ---
  
 ## 👤 Personal Info
