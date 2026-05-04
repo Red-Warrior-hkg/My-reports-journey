@@ -22,6 +22,7 @@ This repository is designed to bridge offensive and defensive security thinking 
 > ⚠️ *Everything here is for **educational purposes only** — tested in safe lab environments or on authorized targets.*
 
 ### <div align="center"> ⭐ If you found these writeups helpful, please consider starring the repo!
+<div align="center"> 
  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.ctf-writeups)
+ ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.ctf-writeups)
   </div>
