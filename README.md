@@ -1,38 +1,27 @@
-# 🚀 My Reports Journey
+# <center> 🔒 Vulnerability Research & Hardening </center>
 
-Welcome to my personal repository where I document my **cybersecurity** 🔐 and **CTF** 🏴‍☠️ journey.  
-This repository shows my **progression**, hands-on practice, and learning **step by step** 📈.
-
----
-
-## 🧑‍💻 What you will find here
-
-This repository may contain:
-
-- Vulnerability research (for learning only)
-- CTF write-ups (simple explanations)
-- Notes about tools and techniques
-- Practice reports
-- Experiments in web security and networks
-
-Everything here is for **educational purposes only**.
+Welcome to my personal security research repository — Real-world vulnerability analysis with applied security fixes and mitigation techniques.
 
 ---
+## 🎯 Objective
 
-## 📄 Reports Overview
-
-Here are some reports I created:
-
-- [Router XSS Analysis](https://github.com/Red-Warrior-hkg/My-reports-journey/tree/main/Router%20XSS%20Analysis) :  Explored a home router web interface , discovered **reflected XSS** , and learned how **input handling** works .
-- [Norvus CTF 2026](https://github.com/Red-Warrior-hkg/My-reports-journey/tree/main/norvusCTF2026) : competed in NorvusCTF 2026, a 24-hour Jeopardy-style CTF organized by ⚡ QarabagTeam. With my 3-person team 👥 m4ake_2, we finished #84 🎯 out of 348 teams with a score of 2700 💪."
-- [SQL Injection Research Report](https://github.com/Red-Warrior-hkg/My-reports-journey/blob/main/portswigger-wsa-reports/SQL_Injection_Report.pdf) : A structured report documenting 5 SQL injection lab exercises from the Web Security Academy (PortSwigger) — covering hidden data retrieval, authentication bypass, and UNION-based data extraction.
+This repository is designed to bridge offensive and defensive security thinking by:
++ Understanding how vulnerabilities are exploited in practice
++ Analyzing root causes at the system and code level
++ Applying realistic and actionable hardening techniques
 ---
 
-## 📝 Notes and Learning
+## 📖 What's inside
 
-All experiments were done in **safe lab environments** 🧪 or on **my own devices** 💻.  
----
+| Category | Description |
+|----------|-------------|
+| 🔍 **Vulnerability Research** | Real-world-style bug discoveries (router XSS, SQLi, etc.) in lab environments |
+| 🛡️ **Hardening Notes** | System configuration, security baselines, and mitigation techniques |
+| 📊 **Practice Reports** | Structured documentation of hands-on security exercises |
 
-## 🎯 Goal
+> ⚠️ *Everything here is for **educational purposes only** — tested in safe lab environments or on authorized targets.*
 
-> Learn **cybersecurity step by step**, track my **progress**, and share my **learning journey** 🚀.
+### <div align="center"> ⭐ If you found these writeups helpful, please consider starring the repo!
+ 
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.ctf-writeups)
+  </div>
